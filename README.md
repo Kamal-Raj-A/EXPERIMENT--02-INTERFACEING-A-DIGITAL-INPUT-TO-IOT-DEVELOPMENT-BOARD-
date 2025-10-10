@@ -101,12 +101,10 @@ else
 }
 ```
 
-
 ## Output  :
- 
- ![WhatsApp Image 2025-09-24 at 14 21 18_5985d7d7](https://github.com/user-attachments/assets/23858de8-7f83-456c-87c1-7687b28f6f01)
 
- 
+<img width="951" height="489" alt="Screenshot 2025-10-10 083405" src="https://github.com/user-attachments/assets/57624a37-5872-43c4-9a4d-9579c00b7584" />
+<img width="752" height="785" alt="image" src="https://github.com/user-attachments/assets/e5078ee4-d40b-4a94-8007-83d6e3af2848" />
  
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
